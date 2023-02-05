@@ -1,0 +1,192 @@
+{
+    
+    "connexion_email": "Email",
+    "connexion_mdp": "Mot de passe",
+    "connexion_seConneceter": "Se connecter",
+    "connexion_mdpOublier": "Mot de passe oublié",
+    "connexion_nouveau": "Je suis nouveau",
+    "connexion_inscription": "Créer un compte",
+    "connexion_donneeIncomplet": "Données incompletes.",
+    "connexion_donneeIncompletMessage": "Certain données sont manquantes. ou incorretes",
+    "connexion_erreurTilte": "Compte introuvable.",
+    "connexion_erreurMessage": "Votre login ou mot de passe est incorrete.",
+
+
+    "menuPrincipal_monCompte": "Mon compte",
+    "menuPrincipal_apropos": "A propos",
+    "menuPrincipal_aideCommentaire": "Aide et commentaire",
+    "menuPrincipal_nousContacter": "Nous contacter",
+    "menuPrincipal_partager": "Partager",
+    "menuPrincipal_seDeconnecter": "Se déconnecter",
+    "menuPrincipal_enchereEnCours": "Enchère en cours",
+    "menuPrincipal_tableauBord": "Tableau de bord",
+    "menuPrincipal_desole": "Désolé une erreur c'est produit...",
+    "menuPrincipal_desole2": "Désolé aucune enchères remportée !!!",
+    "menuPrincipal_nomProduit": "Nom du produit",
+    "menuPrincipal_netAPayer": "Net à payer",
+    "menuPrincipal_vousAvezGagner": "Vous avez gagnez !",
+
+    "enchereEnCours_acheterDesPlace": "Acheter des places sur un produit\n afin de pouvoir renchérir.\nCliquer sur acheter pour vous lancer.",
+    "enchereEncours_rafraichissement": "Rafraichissement ...",
+    "enchereEncours_nomProduit": "Nom du produit",
+    "enchereEncours_offreGagnante": "Offre gagnante",
+    "enchereEncours_enchereNonOuverte": "Enchère non ouverte !",
+    "enchereEncours_acheter": "Acheter",
+
+    "monCompte_titre": "Mon Compte",
+    "monCompte_nom": "Nom",
+    "monCompte_prenom": "Prenom",
+    "monCompte_email": "Email",
+    "monCompte_telephone": "Téléphone",
+    "monCompte_enregistrerModification": "Enregistrer les modifications",
+    
+
+    "apropos_titre": "Apropos",
+    "apropos_message":  "LUXURY LTD est une plate-forme au cours de laquelle des biens sont vendus et dirigés par la plate-forme c'est produit sont destiné à tout public et aux professionnelles toutes personnes peut proposer des prix pour acheter les produits à condition d'être majeur responsable et solvable c'est une vente au cours de laquelle les biens vendus sont remis à celui qui offre le prix le plus bas et être le seul aavoir le prix le plus bas sur toutes les proposition de prix qui auront étais faite.",
+   
+   
+    "aidesCommentaire_titre": "Aides et commentaires",
+
+    "contact_titre": "Contactez nous",
+    "contact_message": "Vous pouvez nous contactez à tout moment, nous sommes a votre écoute.",
+    "contact_appel": "Appelez nous",
+    "contact_email": "Ecrivez nous",
+    "contact_sms": "Envoyer nous un SMS",
+
+    "partager": "vous invite a installer l'application Luxury via le lien suivant:",
+
+
+    "inscription_title": "Création de compte",
+    "inscription_nom": "Nom",
+    "inscription_prenom": "Prenom",
+    "inscription_email": "Email",
+    "inscription_adresse": "Adresse",
+    "inscription_pays": "Pays",
+    "inscription_telephone": "Téléphone",
+    "inscription_motDePasse": "Mot de passe",
+    "inscription_confirmerMotPasse": "Confirmer mot de passe",
+    "inscription_donneIncompletTitre": "Données incompletes.",
+    "inscription_donneIncompletMessage": "Certain données sont manquantes. ou incorretes",
+    "inscription_erreurReseautTitre": "Erreur réseau !",
+    "inscription_erreurReseauMessage": "Vérifier votre connxion internet.",
+    "inscription_authentification": "Authentification",
+    "inscription_authentificationMessage": "Votre compte a été crée avec succès sur la plate-forme.\nPour vous connecter vous devez activer ce compte.",
+    "inscription_felicitationPlutTard": "Plus tard",
+    "inscription_felicitation": "Felicitation !",
+    "inscription_felicitationMessage": "Votre compte à bien été créer sur la plate forme. Connectez vous pour activer ce compte. Merci de nous faire confiance.",
+    "inscription_activerMaintenant": "Activer maintenant",
+
+
+    "activation_title": "Activation de compte.",
+    "activation_message1": "Un code secrèt a été envoyé à votre adresse mail( ",
+    "activation_message2": " ). Pour activer votre compte, vous devez renseigner ce code dans le champs ci dessous et valider.",
+    "activation_codeSecret": "Code secrèt *.",
+    "activation_codeIncompletTile": "Code incomplet !",
+    "activation_codeIncompletMessage": "Renseigner votre code.",
+    "activation_erreurCode" : "Erreur code !",
+    "activation_erreurCodeMessage" : "Votre code semble etre invalid.",
+    "activation_erreurCodeInvalide" : "Erreur code !",
+    "activation_erreurCodeMessageInconnue" : "Votre code semble etre inconnu.",
+    "activation_felicitationTilte" : "Félicitation !",
+    "activation_felicitationMessage" : "Votre compte est maintenant activé.",
+    "activation_codeNonRecu" : "Je n'ai pas reçu de code.",
+    "activation_codeRenvoyer" : "Renvoyer encore",
+    "activation_adresseMailInconnu": "Adresse mail inconnu.",
+    "activation_nouveauCodeTitle": "Nouveau code !",
+    "activation_nouveauCodeMessage": "Un nouveau code a été envoyé à votre adresse mail:",
+    
+    "produit_title": "Liste des",
+    "produit_chargement": "Chargement en cours...",
+    "produit_empty": "Aucun produit à renchèrir actuellement...",
+    "produit_PrixVente": "Prix vente",
+    "produit_NombrePlace": "Nombre de place",
+    "produit_PrixPlace": "Prix d'une place",
+
+    
+    "produitDetails_Produit": "Produit",
+    "produitDetails_Detail": "Details",
+    "produitDetails_dsecription": "Description",
+    "produitDetails_prixVente": "Prix de vente classique",
+    "produitDetails_nombrePlace": "Nombre de place restante",
+    "produitDetails_prixPlace": "Prix d'une place",
+    "produitDetails_acheterPlace": "Achéter des places à",
+    "produitDetails_imageComple": "Images Complementaires",
+    "produitDetails_videoPromotionnelle": "Vidéo promotionnelle",
+    "produitDetails_ficheTech": "Fiche technique",
+
+    
+   
+    "trading_depotOffre": "Dépot d'offre",
+    "trading_voireDetail": "Voir le détail",
+    "trading_acheterPluce": "Achetez plus de places",
+    "trading_evolution": "Evolution du marché",
+    "trading_venteCloture": "Vente cloturée, produit acheté...",
+    "trading_offreGagnante": "Offre gagnante",
+    "trading_dateCloture": "Date cloture des enchères",
+    "trading_enchereNonOuvert": "Enchère non ouverte !",
+    "trading_resteOffre0": "Il vous reste 0 Offres.",
+    "trading_resteOffre": "Il vous reste",
+    "trading_erreurReseau": "Erreur réseau...",
+    "trading_aucuneOffreDepose": "Aucune offre déjà déposée.",
+    "trading_deposerOffre": "Déposer votre offre",
+    "trading_attente": "En attente !",
+    "trading_attenteMessage": "Enchère pas encore ouverte",
+    "trading_offre": "Renseigner le montant que vous souhaitez deposer pour ce produit.",
+    "trading_montantOffre": " Montant de votre offre(en €)",
+    "trading_Annuler": "Annuler",
+    "trading_valider": "Valider",
+    "trading_felicitation": "Félicitation !",
+    "trading_felicitationMessage": "Offre déposée avec succès. Merci de nous faire confiance.",
+    "trading_erreur": "Erreur !",
+    "trading_erreurMessage": "Vérifier votre montant ou \n votre connxion internet.",
+
+
+
+    "componentCategorie_titre": "Choisir une catégorie de produit.",
+    "componentCategorie_boutton" :"Annuler",
+
+
+    "componentPaiement_titre": "Acheter des places a ",
+    "componentPaiement_nombrePlace": "Nombre de places",
+    "componentPaiement_codeVendeur": "Code du vendeur",
+    "componentPaiement_bouttonAnnuler": "Annuler",
+    "componentPaiement_bouttonAchetter": "Acheter",
+    "componentPaiement_erreurTitre": "Erreur !!!", 
+    "componentPaiement_erreurMessageInvalide": "Nombre de place invalid.",
+    "componentPaiement_erreurReseauTitre": "Erreur réseau !",
+    "componentPaiement_erreurReseauMessage": "Vérifier votre connxion internet.",
+    "componentPaiement_erreurEleverMessage": "Nombre de place trop élévé. Il ne reste plus autant de places.",
+    "componentPaiement_felicitationTitre": "Félicitation !",
+    "componentPaiement_felicitationMessage1": "Nombre de place acheté avec succès sur la plate forme. Vous avez droit à",
+    "componentPaiement_felicitationMessage2": "propositions.\n Merci de nous faire confiance.",
+
+
+
+
+    "componentPasswordChange_titre": "Sécurité.",
+    "componentPasswordChange_message": "Vous allez changer votre mot de passe, renseigner les champs suivants et valider.",
+    "componentPasswordChange_ancienPass": "Ancien mot de passe",
+    "componentPasswordChange_nouveauPass": "Nouveau mot de passe",
+    "componentPasswordChange_bouttonAnnuler": "Annuler",
+    "componentPasswordChange_bouttonValider": "Valider",
+
+
+    "componentPasswordRecovry_titre": "Vérifier votre adresse mail, nous allons envoyer votre nouveau mot de passe à cette adress après validation.",
+    "componentPasswordRecovry_email": "Email",
+    "componentPasswordRecovry_bouttonAnnuler": "Annuler",
+    "componentPasswordRecovry_bouttonValider": "Valider",
+    "componentPasswordRecovry_erreur": "Erreur !",
+    "componentPasswordRecovry_emailInvalide": "Adresse mail invalid.",
+    "componentPasswordRecovry_felicitationTitle": "Félicitation !!!",
+    "componentPasswordRecovry_felicitationmessage": "Votre nouveau mot de passe a été envoyé a votre adresse mail.",
+
+
+    "componentDeconnexion_title": "Déconnection",
+    "componentDeconnexion_message": "Vous serez deconnectez de cette application voulez vous continuer ?",
+    "componentDeconnexion_Annuler": "Annuler",
+    "componentDeconnexion_valider": "Valider" 
+
+
+}
+
+

@@ -1,0 +1,189 @@
+{
+    
+
+    "connexion_email": "Correo electrónico",
+    "connexion_mdp": "Contraseña",
+    "connexion_seConneceter": "Conectar",
+    "connexion_mdpOublier": "Contraseña olvidada",
+    "connexion_nouveau": "Soy nuevo",
+    "connexion_inscription": "Crear una cuenta",
+    "connexion_donneeIncomplet": "Datos incompletos",
+    "connexion_donneeIncompletMessage": "Faltan algunos datos o son incorrectos",
+    "connexion_erreurTilte": "Cuenta no encontrada.",
+    "connexion_erreurMessage": "Su nombre de usuario o contraseña es incorrecto.",
+
+
+    "menuPrincipal_monCompte": "Mi cuenta",
+    "menuPrincipal_apropos": "Acerca de",
+    "menuPrincipal_aideCommentaire": "Ayuda y comentario",
+    "menuPrincipal_nousContacter": "Contáctenos",
+    "menuPrincipal_partager": "Compartir",
+    "menuPrincipal_seDeconnecter": "Desconectar",
+    "menuPrincipal_enchereEnCours": "Subasta actual",
+    "menuPrincipal_tableauBord": "Panel de control",
+    "menuPrincipal_desole": "Lo sentimos, se produjo un error ...",
+    "menuPrincipal_desole2": "¡¡¡Lo sentimos, no se han ganado ofertas !!!",
+    "menuPrincipal_nomProduit": "Nombre del producto",
+    "menuPrincipal_netAPayer": "Neto para pagar",
+    "menuPrincipal_vousAvezGagner": "¡Ganaste!",
+
+
+
+    "enchereEnCours_acheterDesPlace": "Compre asientos en un producto \n para poder ofertar. \n Haga clic en comprar para comenzar",
+    "enchereEncours_rafraichissement": "Refresco ...",
+    "enchereEncours_nomProduit": "Nombre del producto",
+    "enchereEncours_offreGagnante": "Oferta ganadora",
+    "enchereEncours_enchereNonOuverte": "¡Subasta no abierta!",
+    "enchereEncours_acheter": "Comprar",
+
+    "monCompte_titre": "Mi cuenta",
+    "monCompte_nom": "Nombre",
+    "monCompte_prenom": "Nombre",
+    "monCompte_email": "Correo electrónico",
+    "monCompte_telephone": "Teléfono",
+    "monCompte_enregistrerModification": "Guardar las modificaciones",
+
+
+    "apropos_titre": "Apropos",
+    "apropos_message": "LUXURY LTD es una plataforma durante la cual los bienes son vendidos y administrados por la plataforma en la que se produce están destinados a todos los públicos y profesionales todas las personas pueden ofrecer precios para comprar los productos en condición de ser mayor de edad responsable y solvente es una venta durante la cual los bienes vendidos se entregan al que ofrece el precio más bajo y ser el único que tiene el precio más bajo en todas las propuestas de precios que se han realizado. ",
+
+    "aidesCommentaire_titre": "Ayuda y comentarios",
+
+    "contact_titre": "Contáctanos",
+    "contact_message": "Puedes contactarnos en cualquier momento, estamos a tu disposición.",
+    "contact_appel": "Llámanos",
+    "contact_email": "Escríbanos",
+    "contact_sms": "Envíanos un SMS",
+
+    "partager": "le invita a instalar la aplicación Luxury a través del siguiente enlace:",
+
+
+    "inscription_title": "Creación de cuenta",
+    "inscription_nom": "Nombre",
+    "inscription_prenom": "Nombre",
+    "inscription_email": "Correo electrónico",
+    "inscription_adresse": "Dirección",
+    "inscription_pays": "País",
+    "inscription_telephone": "Teléfono",
+    "inscription_motDePasse": "Contraseña",
+    "inscription_confirmerMotPasse": "Confirmar contraseña",
+    "inscription_donneIncompletTitre": "Datos incompletos",
+    "inscription_donneIncompletMessage": "Algunos datos faltan o son incorrectos",
+    "inscription_erreurReseautTitre": "¡Error de red!",
+    "inscription_erreurReseauMessage": "Verifica tu conexión a Internet.",
+    "inscription_authentification": "Autenticación",
+    "inscription_authentificationMessage": "Su cuenta se ha creado con éxito en la plataforma. \n Para conectarse debe activar esta cuenta.",
+    "inscription_felicitationPlutTard": "Más tarde",
+    "inscription_felicitation": "¡Felicitaciones!",
+    "inscription_felicitationMessage": "Su cuenta ha sido creada en la plataforma. Inicie sesión para activar esta cuenta. Gracias por confiar en nosotros.",
+    "inscription_activerMaintenant": "Activar ahora",
+
+
+    "activation_title": "Activación de la cuenta",
+    "activation_message1": "Se ha enviado un código secreto a su dirección de correo electrónico (",
+    "activation_message2": "). Para activar su cuenta, debe ingresar este código en el campo a continuación y validar.",
+    "activation_codeSecret": "Código secreto *.",
+    "activation_codeIncompletTile": "¡Código incompleto!",
+    "activation_codeIncompletMessage": "Ingrese su código.",
+    "activation_erreurCode": "¡Error de código!",
+    "activation_erreurCodeMessage": "Parece que su código no es válido.",
+    "activation_erreurCodeInvalide": "¡Error de código!",
+    "activation_erreurCodeMessageInconnue": "Parece que tu código es desconocido.",
+    "activation_felicitationTilte": "¡Felicitaciones!",
+    "activation_felicitationMessage": "Su cuenta ahora está activada.",
+    "activation_codeNonRecu": "No recibí un código.",
+    "activation_codeRenvoyer": "Reenviar de nuevo",
+    "activation_adresseMailInconnu": "Dirección de correo electrónico desconocida",
+    "activation_nouveauCodeTitle": "¡Nuevo código!",
+    "activation_nouveauCodeMessage": "Se ha enviado un nuevo código a su dirección de correo electrónico:",
+   
+ 
+    "produit_title": "Lista de",
+    "produit_chargement": "Cargando ...",
+    "produit_empty": "Ningún producto para actualizar en este momento ...",
+    "produit_PrixVente": "Precio de oferta",
+    "produit_NombrePlace": "Número de lugar",
+    "produit_PrixPlace": "Precio de un asiento",
+
+
+    "produitDetails_Produit": "Producto",
+    "produitDetails_Detail": "Detalles",
+    "produitDetails_dsecription": "Descripción",
+    "produitDetails_prixVente": "Precio de oferta clásico",
+    "produitDetails_nombrePlace": "Número de lugares restantes",
+    "produitDetails_prixPlace": "Precio de un asiento",
+    "produitDetails_acheterPlace": "Comprar lugares en",
+    "produitDetails_imageComple": "Imágenes complementarias",
+    "produitDetails_videoPromotionnelle": "Video promocional",
+    "produitDetails_ficheTech": "Ficha técnica",
+
+
+    "trading_depotOffre": "Ofrecer depósito",
+    "trading_voireDetail": "Ver el detalle",
+    "trading_acheterPluce": "Compre más asientos",
+    "trading_evolution": "Evolución del mercado",
+    "trading_venteCloture": "Venta cerrada, producto comprado ...",
+    "trading_offreGagnante": "Oferta ganadora",
+    "trading_dateCloture": "Fecha de cierre de la subasta",
+    "trading_enchereNonOuvert": "¡Subasta no abierta!",
+    "trading_resteOffre0": "Le quedan 0 ofertas.",
+    "trading_resteOffre": "Te has ido",
+    "trading_erreurReseau": "Error de red ...",
+    "trading_aucuneOffreDepose": "No se ha enviado ninguna oferta.",
+    "trading_deposerOffre": "Envíe su oferta",
+    "trading_attente": "¡Pendiente!",
+    "trading_attenteMessage": "Subasta aún no abierta",
+    "trading_offre": "Ingrese la cantidad que desea depositar para este producto...",
+    "trading_montantOffre": "Importe de su oferta (en €)",
+    "trading_Annuler": "Cancelar",
+    "trading_valider": "Validar",
+    "trading_felicitation": "¡Felicitaciones!",
+    "trading_felicitationMessage": "Oferta enviada correctamente. Gracias por confiar en nosotros.",
+    "trading_erreur": "¡Error!",
+    "trading_erreurMessage": "Verifique su monto o \n su conexión a Internet.",
+
+
+    "componentCategorie_titre": "Elija una categoría de producto.",
+    "componentCategorie_boutton": "Cancelar",
+
+    "componentPaiement_titre": "Compre boletos en",
+    "componentPaiement_nombrePlace": "Número de lugares",
+    "componentPaiement_codeVendeur": "Vendor code",
+    "componentPaiement_bouttonAnnuler": "Cancelar",
+    "componentPaiement_bouttonAchetter": "Comprar",
+    "componentPaiement_erreurTitre": "¡¡¡Error !!!",
+    "componentPaiement_erreurMessageInvalide": "Número de lugares no válido.",
+    "componentPaiement_erreurReseauTitre": "¡Error de red!",
+    "componentPaiement_erreurReseauMessage": "Verifique su conexión a Internet.",
+    "componentPaiement_felicitationTitre": "¡Felicitaciones!",
+    "componentPaiement_felicitationMessage1": "Número de entradas compradas correctamente en la plataforma. Tiene derecho a",
+    "componentPaiement_felicitationMessage2": "propuestas. \n Gracias por confiar en nosotros.",
+    "componentPaiement_erreurEleverMessage": "Number of places too high. There are not so many places left.",
+
+    "componentPasswordChange_titre": "Seguridad.",
+    "componentPasswordChange_message": "Vas a cambiar tu contraseña, completa los siguientes campos y valida.",
+    "componentPasswordChange_ancienPass": "Contraseña anterior",
+    "componentPasswordChange_nouveauPass": "Nueva contraseña",
+    "componentPasswordChange_bouttonAnnuler": "Cancelar",
+    "componentPasswordChange_bouttonValider": "Validar",
+
+
+    "componentPasswordRecovry_titre": "Verifique su dirección de correo electrónico, le enviaremos su nueva contraseña a esta dirección después de la validación.",
+    "componentPasswordRecovry_email": "Correo electrónico",
+    "componentPasswordRecovry_bouttonAnnuler": "Cancelar",
+    "componentPasswordRecovry_bouttonValider": "Validar",
+    "componentPasswordRecovry_erreur": "¡Error!",
+    "componentPasswordRecovry_emailInvalide": "Dirección de correo electrónico no válida",
+    "componentPasswordRecovry_felicitationTitle": "¡¡¡Felicitaciones !!!",
+    "componentPasswordRecovry_felicitationmessage": "Su nueva contraseña ha sido enviada a su dirección de correo electrónico.",
+
+
+    "ComponentDeconnexion_title": "Desconexión",
+    "ComponentDeconnexion_message": "Se desconectará de esta aplicación, ¿desea continuar?",
+    "ComponentDeconnexion_Annuler": "Cancelar",
+    "ComponentDeconnexion_valider": "Validar"
+
+
+}
+
+

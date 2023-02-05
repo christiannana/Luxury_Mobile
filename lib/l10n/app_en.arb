@@ -1,0 +1,188 @@
+{
+    
+  "connexion_email": "E-mail",
+  "connexion_mdp": "Password",
+  "connexion_seConneceter": "Log in",
+  "connexion_mdpOublier": "Forgot your password",
+  "connexion_nouveau": "I'm new",
+  "connexion_inscription": "Sign Up",
+  "connexion_donneeIncomplet": "Incomplete data",
+  "connexion_donneeIncompletMessage": "Some data is missing. or incorrect",
+  "connexion_erreurTilte": "Account not found.",
+  "connexion_erreurMessage": "Your login or password is incorrect.",
+
+
+  "menuPrincipal_monCompte": "My account",
+  "menuPrincipal_apropos": "About",
+  "menuPrincipal_aideCommentaire": "Help and comment",
+  "menuPrincipal_nousContacter": "Contact us",
+  "menuPrincipal_partager": "Share",
+  "menuPrincipal_seDeconnecter": "Sign out",
+  "menuPrincipal_enchereEnCours": "Current auction",
+  "menuPrincipal_tableauBord": "Dashboard",
+  "menuPrincipal_desole": "Sorry an error occurred ...",
+  "menuPrincipal_desole2": "Sorry no auction won !!!",
+  "menuPrincipal_nomProduit": "Product Name",
+  "menuPrincipal_netAPayer": "Net to pay",
+  "menuPrincipal_vousAvezGagner": "You have won!",
+
+  "enchereEnCours_acheterDesPlace": "Buy seats on a product \n in order to be able to bid. \nClick on buy to get started.",
+  "enchereEncours_rafraichissement": "Refreshment ...",
+  "enchereEncours_nomProduit": "Product Name",
+  "enchereEncours_offreGagnante": "Winning bid",
+  "enchereEncours_enchereNonOuverte": "Auction not open !",
+  "enchereEncours_acheter": "Buy tickets",
+
+  "monCompte_titre": "My account",
+  "monCompte_nom": "Name",
+  "monCompte_prenom": "First name",
+  "monCompte_email": "E-mail",
+  "monCompte_telephone": "Phone",
+  "monCompte_enregistrerModification": "Save Changes",
+  
+
+  "apropos_titre": "About",
+  "apropos_message":  "LUXURY LTD is a platform during which goods are sold and managed by the platform it is produced are intended for all audiences and professionals all people can offer prices to buy the products provided they are of legal age. responsible and solvent is a sale during which the goods sold are handed over to the one who offers the lowest price and to be the only one to have the lowest price on all the price proposals that have been made.",
+ 
+ 
+  "aidesCommentaire_titre": "Help and comments",
+
+  "contact_titre": "Contact us",
+  "contact_message": "You can contact us at any time, we are at your disposal.",
+  "contact_appel": "Call us",
+  "contact_email": "Write US",
+  "contact_sms": "Send us an SMS",
+
+  "partager": "invites you to install the Luxury application via the following link:",
+
+
+  "inscription_title": "Account creation",
+  "inscription_nom": "Name",
+  "inscription_prenom": "First name",
+  "inscription_email": "E-mail",
+  "inscription_adresse": "Adress",
+  "inscription_pays": "Country",
+  "inscription_telephone": "Phone",
+  "inscription_motDePasse": "Password",
+  "inscription_confirmerMotPasse": "Confirm password",
+  "inscription_donneIncompletTitre": "Incomplete data.",
+  "inscription_donneIncompletMessage": "Some data is missing or incorrect",
+  "inscription_erreurReseautTitre": "Network error!",
+  "inscription_erreurReseauMessage": "Check your internet connection.",
+  "inscription_authentification": "Authentication",
+  "inscription_authentificationMessage": "Your account has been successfully created on the platform. \n To log in you must activate this account.",
+  "inscription_felicitationPlutTard": "Later",
+  "inscription_felicitation": "Congratulations !",
+  "inscription_felicitationMessage": "Your account has been created on the platform. Log in to activate this account. Thank you for trusting us.",
+  "inscription_activerMaintenant": "Activate now",
+
+
+  "activation_title": "Account activation.",
+  "activation_message1": "A secret code has been sent to your email address (",
+  "activation_message2": "). To activate your account, you must enter this code in the field below and validate.",
+  "activation_codeSecret": "Secret code *.",
+  "activation_codeIncompletTile": "Incomplete code!",
+  "activation_codeIncompletMessage": "Enter your code.",
+  "activation_erreurCode" : "Code error!",
+  "activation_erreurCodeMessage" : "Your code appears to be invalid.",
+  "activation_erreurCodeInvalide" : "Code error!",
+  "activation_erreurCodeMessageInconnue" : "Your code appears to be unknown.",
+  "activation_felicitationTilte" : "Congratulations !",
+  "activation_felicitationMessage" : "Your account is now activated.",
+  "activation_codeNonRecu" : "I did not receive any code.",
+  "activation_codeRenvoyer" :"Resend again",
+  "activation_adresseMailInconnu": "Unknown email address.",
+  "activation_nouveauCodeTitle": "New code!",
+  "activation_nouveauCodeMessage": "A new code has been sent to your email address:",
+  
+  "produit_title": "List of",
+  "produit_chargement": "Loading...",
+  "produit_empty": "No product to bid at present ...",
+  "produit_PrixVente":"Sell price",
+  "produit_NombrePlace": "Number of places",
+  "produit_PrixPlace": "Price of a seat",
+
+  
+  "produitDetails_Produit": "Product",
+  "produitDetails_Detail": "Details",
+  "produitDetails_dsecription": "Description",
+  "produitDetails_prixVente": "Classic sale price",
+  "produitDetails_nombrePlace": "Number of remaining places",
+  "produitDetails_prixPlace": "Price of a seat",
+  "produitDetails_acheterPlace": "Buy tickets at",
+  "produitDetails_imageComple": "Complementary Images",
+  "produitDetails_videoPromotionnelle": "Promotional video",
+  "produitDetails_ficheTech": "Technical sheet",
+
+  
+   
+  "trading_depotOffre": "Offer deposit",
+  "trading_voireDetail": "See the detail",
+  "trading_acheterPluce": "Buy more seats",
+  "trading_evolution": "Market evolution",
+  "trading_venteCloture": "Sale closed, product purchased ...",
+  "trading_offreGagnante": "Winning offer",
+  "trading_dateCloture": "Auction closing date",
+  "trading_enchereNonOuvert": "Auction not open!",
+  "trading_resteOffre0": "You have 0 Offers left.",
+  "trading_resteOffre": "you still have",
+  "trading_erreurReseau": "Network error ...",
+  "trading_aucuneOffreDepose": "No offer already submitted.",
+  "trading_deposerOffre": "Submit your offer",
+  "trading_attente": "Pending!",
+  "trading_attenteMessage": "Auction not yet open",
+  "trading_offre": "Enter the amount you wish to deposit for this product...",
+  "trading_montantOffre": "Amount of your offer (in €)",
+  "trading_Cancel": "Cancel",
+  "trading_valider": "Validate",
+  "trading_felicitation": "Congratulations!",
+  "trading_felicitationMessage": "Offer successfully submitted. Thank you for trusting us.",
+  "trading_erreur": "Error!",
+  "trading_erreurMessage": "Check your amount or \n your internet connection.",
+
+
+  "componentCategorie_titre": "Choose a product category.",
+  "componentCategorie_boutton": "Cancel",
+
+    "componentPaiement_titre": "Buy tickets at",
+    "componentPaiement_nombrePlace": "Number of places",
+    "componentPaiement_codeVendeur": "Vendor code",
+    "componentPaiement_bouttonAnnuler": "Cancel",
+    "componentPaiement_bouttonAchetter": "Buy",
+    "componentPaiement_erreurTitre": "Error !",
+    "componentPaiement_erreurMessageInvalide": "Number of places invalid.",
+    "componentPaiement_erreurReseauTitre": "Network error!",
+    "componentPaiement_erreurReseauMessage": "Check your internet connection.",
+    "componentPaiement_felicitationTitre": "Congratulations!",
+    "componentPaiement_felicitationMessage1": "Number of tickets successfully purchased on the platform. You are entitled to",
+    "componentPaiement_felicitationMessage2": "proposals. \n Thank you for trusting us.",
+    "componentPaiement_erreurEleverMessage": "Number of places too high. There are not so many places left.",
+ 
+  "componentPasswordChange_titre": "Security.",
+  "componentPasswordChange_message": "You are going to change your password, complete the following fields and validate.",
+  "componentPasswordChange_ancienPass": "Old password",
+  "componentPasswordChange_nouveauPass": "New password",
+  "componentPasswordChange_bouttonAnnuler": "Cancel",
+  "componentPasswordChange_bouttonValider": "Validate",
+
+
+  "componentPasswordRecovry_titre": "Check your email address, we will send your new password to this address after validation.",
+  "componentPasswordRecovry_email": "E-mail",
+  "componentPasswordRecovry_bouttonAnnuler": "Cancel",
+  "componentPasswordRecovry_bouttonValider": "Validate",
+  "componentPasswordRecovry_erreur": "Error!",
+  "componentPasswordRecovry_emailInvalide": "E-mail address invalid.",
+  "componentPasswordRecovry_felicitationTitle": "Congratulations !!!",
+  "componentPasswordRecovry_felicitationmessage": "Your new password has been sent to your email address.",
+
+
+  "componentDeconnexion_title": "Log out",
+  "componentDeconnexion_message": "You will be disconnected from this application do you want to continue ?",
+  "componentDeconnexion_Annuler": "Cancel",
+  "componentDeconnexion_valider": "Validate"
+
+
+
+}
+
+

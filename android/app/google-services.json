@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852614720685",
+    "project_id": "luxury-reverse-auction-limited",
+    "storage_bucket": "luxury-reverse-auction-limited.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852614720685:android:12d5781f5fe6e2b0fcea24",
+        "android_client_info": {
+          "package_name": "com.luxury.app2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852614720685-jqd0dvpi82umni8m155mvk4unh520ou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPACMmr7gjfKzt24j3VKxAg3mt8UMDSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852614720685-jqd0dvpi82umni8m155mvk4unh520ou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
